@@ -1,0 +1,4 @@
+# Build archives live in Releases, not in git.
+*.zip
+*.7z
+*.tar.gz
