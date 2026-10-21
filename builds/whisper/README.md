@@ -9,7 +9,9 @@ whisper.cpp compiled with `-DGGML_VULKAN=ON`, Windows x64, MSVC.
 | Tag | `whisper-vulkan-b5454` |
 | Asset | `whisper-vulkan-b5454.zip` |
 | Upstream | `ggml-org/whisper.cpp` @ `b5454` |
-| Size | ~47.7 MB |
+| Download | 16,105,093 bytes |
+| SHA-256 | `ee21a1617bbc54a325c0b3978f9abeadf9c521f88c7325c86ee56ea32cfe4f41` |
+| Unpacked | ~47.7 MB |
 
 ## Contents
 
